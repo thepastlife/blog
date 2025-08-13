@@ -22,11 +22,14 @@ weight = 10
 
 [params.giscus]
 repo = "thepastlife/blog"
-repoId = "R_kgDOPdIO7g"
+repo-id = "R_kgDOPdIO7g"
 category = "General"
-categoryId = "DIC_kwDOPdIO7s4CuHsy"
+category-id = "DIC_kwDOPdIO7s4CuHsy"
 mapping = "url"
-lang = "en"
-reactions-enabled = "1"
+strict = 0
+reactions-enabled = 1
+emit-metadata = 0
 input-position = "top"
+theme = "light"
+lang = "en"
 loading = "lazy"
