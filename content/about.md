@@ -8,8 +8,6 @@ Mungkin saya jelaskan sedikit aja.
 
 Saat ini saya adalah seorang mahasiswa jurusan **Teknik Informatika** di sebuah [kampus yang ada di pulau sumatera.](https://www.itera.ac.id/).
 
-Hmm.
-
 Mungkin kita pernah satu sekolah dulu? Mungkin kamu ga ingat nama aku, tapi mungkin kamu masih ingat dengan wajahku hehe.
 
 Di bawah ini, nama-nama sekolahku dulu.
