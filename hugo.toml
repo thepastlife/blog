@@ -1,0 +1,20 @@
+languageCode = "id-ID"
+title = "Andika Dinata's blog."
+author = "Andika Dinata"
+theme = "paper"
+
+[params]
+color = "light"
+math = true
+github = "thepastlife"
+instagram = "andikadinata.x"
+
+[pagination]
+pagerSize = 10
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 10
