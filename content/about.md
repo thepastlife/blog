@@ -1,5 +1,6 @@
 +++
 title = "About"
+comments = false
 +++
 
 Saya sebenarnya **tidak menarik** untuk dijelaskan hehe.
